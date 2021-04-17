@@ -1,6 +1,6 @@
 # Automatic Changing Status
 Automatically change your Discord status with this program!
-------
+
 ## Usage
 - Download the repo or import it.
 - Go to `main.py` and then line 46.
