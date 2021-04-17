@@ -1,0 +1,3 @@
+Put some messages here line by line.
+It will randomly choose a line and display it as your status!
+Enjoy! :)
